@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+scikit-learn
+nltk
+beautifulsoup4
+requests
+yfinance
+matplotlib
+seaborn
+joblib
